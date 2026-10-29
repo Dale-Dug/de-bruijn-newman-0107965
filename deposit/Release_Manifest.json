@@ -1,0 +1,71 @@
+{
+  "schema": "BCLD_RECONSTRUCTED_DEPOSIT_V1",
+  "doi": "10.5281/zenodo.23752103",
+  "public_file_count": 16,
+  "upper_exact": "427693072077942473661578098491/3961408125713216879677197516800",
+  "edition": "Version 1.0",
+  "version": "1.0",
+  "prepared_date": "2026-10-29",
+  "version_note": "This edition supersedes referee edition 3 of 28 October 2026; the numerical plan, source table and comparison history are unchanged; Appendix B adds the direct source reconstruction.",
+  "files": {
+    "CITATION.cff": {
+      "bytes": 4197,
+      "sha256": "70adae7cb60713a0a9a1e4fc8475ef220dd62ff45c791316cf6ab05ed97d9395"
+    },
+    "Further_Consequences.pdf": {
+      "bytes": 261862,
+      "sha256": "38466a500b151ed9964e24949daaf7c9e428adf16f39f73c54a283584d5e7a0b"
+    },
+    "LICENSES_AND_RIGHTS.md": {
+      "bytes": 4780,
+      "sha256": "5199bc2329565fcec8d03d85bd843146217cec9c8f58eb87a0888df413b68bd6"
+    },
+    "Manuscript_Sources.zip": {
+      "bytes": 194656,
+      "sha256": "0e35b0e9c7e35741bc5757b7c5db1ce4d54b9e7f31880f2b32b7732cce4fa510"
+    },
+    "Matched_Source_Supplement.pdf": {
+      "bytes": 254434,
+      "sha256": "a954ff4704fcb398ff24556c17c3e1f45ea6e4f3c10453500854a96e4f6aa2cf"
+    },
+    "Prior_Analytic_Foundations.pdf": {
+      "bytes": 434186,
+      "sha256": "fe06339d12cfefe00b9da826ff812e31bb1be3cdaa698b78d4d85ad8b0ae53a9"
+    },
+    "Prior_Correlated_Translated_Probes.pdf": {
+      "bytes": 346256,
+      "sha256": "ad3e552b7429e685514cfa4ccfadebe9daf382c8000d95afb584932f0e226787"
+    },
+    "Proof_and_Replay.zip": {
+      "bytes": 201060812,
+      "sha256": "bf5c7b3dca9e17e84e146ecc5ca0c6f671b409613088212e3f0b8a0b15f6aaf6"
+    },
+    "README.md": {
+      "bytes": 7147,
+      "sha256": "ec29cc1d9736fe617e916240748336e15b5a36651cd3261bc741c733aa13b113"
+    },
+    "Unconditional_0107965.pdf": {
+      "bytes": 744690,
+      "sha256": "df40d365c71e09973342ec30eb20cdebdf17faf2d89de32bc7a04772cd1e1e2e"
+    },
+    "Unconditional_0107965.tex": {
+      "bytes": 192911,
+      "sha256": "adbd147a63e2c556a3c5c332e78c011bf3420071a32678262d61aa3aac7ee4f4"
+    },
+    "Verification_Guide.pdf": {
+      "bytes": 209353,
+      "sha256": "6ff2aa0a07a54f178b8b03bd66603eb586967e39af3db639d2909da80b3a7615"
+    },
+    "Verification_Receipt.json": {
+      "bytes": 7297,
+      "sha256": "22eeab2ac9134c29073b8b89ba6e3f0c4a257a41b61fe2ef640930bb74c9a03f"
+    },
+    "Verify_Deposit.py": {
+      "bytes": 25704,
+      "sha256": "11a129ecffad544397eb8d576f94cb7f97fce06495ad8faa2ec485d831568f60"
+    }
+  },
+  "scope": "Fourteen public payloads; SHA256SUMS.txt also binds this manifest. All sixteen public files are required.",
+  "replay_stage_count": 15,
+  "main_manuscript_pages": 63
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "BCLD_GITHUB_FILES_V2",
+  "publication_doi": "10.5281/zenodo.23752103",
+  "scope": "All distributed companion files except this self-excluded manifest. Original 16-file deposit hashes are also in REPOSITORY_PROVENANCE.json.",
+  "files": {
+    "CITATION.cff": {
+      "bytes": 4197,
+      "sha256": "70adae7cb60713a0a9a1e4fc8475ef220dd62ff45c791316cf6ab05ed97d9395"
+    },
+    "LICENSES_AND_RIGHTS.md": {
+      "bytes": 1401,
+      "sha256": "98ad6422922e41793c45f41ea104341fa7309e291cd9716db0b8808633c05b7b"
+    },
+    "Prepare_Replay.py": {
+      "bytes": 4775,
+      "sha256": "40ca2a7074c0c68462711dfb225c8dcca2690eba710933117ec7888a851a3903"
+    },
+    "README.md": {
+      "bytes": 7815,
+      "sha256": "ebbf81e89e32b21c9780e92c7e45e72ed76df72977c7765c965848577c63a3f6"
+    },
+    "REPOSITORY_PROVENANCE.json": {
+      "bytes": 7455,
+      "sha256": "f90bca9e3c16d8793e87588feb7176e27096d2a2f3c31b36ab28b22f3dbcd5cd"
+    },
+    "REVIEW.md": {
+      "bytes": 3272,
+      "sha256": "03075cb513bcf4cfe1a19c8c41d6b2037d608fa7b0aea4ab4a47fc263c5eeb4b"
+    },
+    "Verify_GitHub_Files.py": {
+      "bytes": 2329,
+      "sha256": "8b1a9630fd0bfd8ee3912bfb019a07b29dc2f97c1fe35cf84faec94d90514028"
+    },
+    "deposit/CITATION.cff": {
+      "bytes": 4197,
+      "sha256": "70adae7cb60713a0a9a1e4fc8475ef220dd62ff45c791316cf6ab05ed97d9395"
+    },
+    "deposit/Further_Consequences.pdf": {
+      "bytes": 261862,
+      "sha256": "38466a500b151ed9964e24949daaf7c9e428adf16f39f73c54a283584d5e7a0b"
+    },
+    "deposit/LICENSES_AND_RIGHTS.md": {
+      "bytes": 4780,
+      "sha256": "5199bc2329565fcec8d03d85bd843146217cec9c8f58eb87a0888df413b68bd6"
+    },
+    "deposit/Manuscript_Sources.zip": {
+      "bytes": 194656,
+      "sha256": "0e35b0e9c7e35741bc5757b7c5db1ce4d54b9e7f31880f2b32b7732cce4fa510"
+    },
+    "deposit/Matched_Source_Supplement.pdf": {
+      "bytes": 254434,
+      "sha256": "a954ff4704fcb398ff24556c17c3e1f45ea6e4f3c10453500854a96e4f6aa2cf"
+    },
+    "deposit/Prior_Analytic_Foundations.pdf": {
+      "bytes": 434186,
+      "sha256": "fe06339d12cfefe00b9da826ff812e31bb1be3cdaa698b78d4d85ad8b0ae53a9"
+    },
+    "deposit/Prior_Correlated_Translated_Probes.pdf": {
+      "bytes": 346256,
+      "sha256": "ad3e552b7429e685514cfa4ccfadebe9daf382c8000d95afb584932f0e226787"
+    },
+    "deposit/README.md": {
+      "bytes": 7147,
+      "sha256": "ec29cc1d9736fe617e916240748336e15b5a36651cd3261bc741c733aa13b113"
+    },
+    "deposit/Release_Manifest.json": {
+      "bytes": 2711,
+      "sha256": "0ec8ae2a5b179f348c78c9c8fed9b908ad79d100118913e0a014a56d6fd5e6f1"
+    },
+    "deposit/SHA256SUMS.txt": {
+      "bytes": 1346,
+      "sha256": "a5d556b3bc95e9ecf4271348902ff859bcb5cc9a420a2c2ffb04020e7a95e5e2"
+    },
+    "deposit/Unconditional_0107965.pdf": {
+      "bytes": 744690,
+      "sha256": "df40d365c71e09973342ec30eb20cdebdf17faf2d89de32bc7a04772cd1e1e2e"
+    },
+    "deposit/Unconditional_0107965.tex": {
+      "bytes": 192911,
+      "sha256": "adbd147a63e2c556a3c5c332e78c011bf3420071a32678262d61aa3aac7ee4f4"
+    },
+    "deposit/Verification_Guide.pdf": {
+      "bytes": 209353,
+      "sha256": "6ff2aa0a07a54f178b8b03bd66603eb586967e39af3db639d2909da80b3a7615"
+    },
+    "deposit/Verification_Receipt.json": {
+      "bytes": 7297,
+      "sha256": "22eeab2ac9134c29073b8b89ba6e3f0c4a257a41b61fe2ef640930bb74c9a03f"
+    },
+    "deposit/Verify_Deposit.py": {
+      "bytes": 25704,
+      "sha256": "11a129ecffad544397eb8d576f94cb7f97fce06495ad8faa2ec485d831568f60"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: Proof and replay package for a computer-assisted bound for the de Bruijn-Newman constant
+version: "1.0"
+date-released: "2026-10-29"
+doi: 10.5281/zenodo.23752103
+url: https://doi.org/10.5281/zenodo.23752103
+authors:
+  - family-names: Raymond
+    given-names: Dale James
+    orcid: https://orcid.org/0009-0001-1682-8529
+abstract: >-
+  Proof and replay materials for the computer-assisted bound
+  Lambda <= 427693072077942473661578098491/3961408125713216879677197516800
+  < 0.107964910079. The manuscript combines OpenAI's ordinary-zeta theorem
+  formalised in Lean, written analytic arguments and exact or directed
+  interval computations. Appendix B derives all 67 source chords directly.
+  A fifteenth consumer checks their assembly and final functional bindings;
+  its prerequisite inequalities remain separately verified obligations.
+  This edition supersedes referee edition 3 of 28 October 2026; the numerical plan, source table and comparison history are unchanged; Appendix B adds the direct source reconstruction.
+  The release receipt records the actual execution evidence. Component-specific rights are set out in
+  LICENSES_AND_RIGHTS.md.
+keywords:
+  - de Bruijn-Newman constant
+  - Riemann zeta function
+  - computer-assisted proof
+  - heat flow
+  - exact arithmetic
+  - interval arithmetic
+preferred-citation:
+  type: article
+  title: A computer-assisted bound Λ ≤ 0.107964910079 for the de Bruijn–Newman constant
+  authors:
+    - family-names: Raymond
+      given-names: Dale James
+      orcid: https://orcid.org/0009-0001-1682-8529
+  doi: 10.5281/zenodo.23752103
+  url: https://doi.org/10.5281/zenodo.23752103
+  year: 2026
+  version: "1.0"
+  status: preprint
+  date-published: "2026-10-29"
+  notes: Version 1.0, dated 29 October 2026. Includes Appendix B and the fifteen-stage proof and replay package.
+references:
+  - type: article
+    title: The de Bruijn-Newman constant is non-negative
+    authors:
+      - family-names: Rodgers
+        given-names: Brad
+      - family-names: Tao
+        given-names: Terence
+    journal: Forum of Mathematics, Pi
+    volume: 8
+    year: 2020
+    number: e6
+    pages: 62
+    doi: 10.1017/fmp.2020.6
+    url: https://doi.org/10.1017/fmp.2020.6
+  - type: article
+    title: "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane Re(s)>7/8"
+    authors:
+      - name: OpenAI
+    date-published: "2026-09-30"
+    year: 2026
+    status: preprint
+    abbreviation: OAI:The-Quasi-Riemann-Hypothesis-September-30-2026
+    repository-code: https://github.com/openai/math
+    url: https://github.com/openai/math/blob/main/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf
+    commit: fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb
+    notes: >-
+      OpenAI Math Release preprint, 30 September 2026. The accompanying Lean
+      source used by this package is pinned to the stated commit; its
+      ordinary-zeta declaration is OAI.riemannZeta_ne_zero_of_seven_eighths_lt_re.
+      No new full Lean build is claimed by this package.
+  - type: article
+    title: Retuned translated probes and the conditional bound Λ < 0.116398 for the de Bruijn-Newman constant
+    authors:
+      - family-names: Raymond
+        given-names: Dale James
+        orcid: https://orcid.org/0009-0001-1682-8529
+    year: 2026
+    status: preprint
+    doi: 10.5281/zenodo.23272725
+    url: https://doi.org/10.5281/zenodo.23272725
+  - type: article
+    title: Correlated translated probes and the bound Λ < 0.149396 for the de Bruijn-Newman constant
+    authors:
+      - family-names: Raymond
+        given-names: Dale James
+        orcid: https://orcid.org/0009-0001-1682-8529
+    year: 2026
+    status: preprint
+    doi: 10.5281/zenodo.22867547
+    url: https://doi.org/10.5281/zenodo.22867547
+  - type: article
+    title: Phase-correlated certificates and the bound Λ < 0.163297 for the de Bruijn-Newman constant
+    authors:
+      - family-names: Raymond
+        given-names: Dale James
+        orcid: https://orcid.org/0009-0001-1682-8529
+    year: 2026
+    status: preprint
+    doi: 10.5281/zenodo.22626161
+    url: https://doi.org/10.5281/zenodo.22626161

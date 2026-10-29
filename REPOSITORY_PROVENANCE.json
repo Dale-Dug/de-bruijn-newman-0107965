@@ -1,0 +1,143 @@
+{
+  "schema": "BCLD_GITHUB_COMPANION_PREPARATION_V2",
+  "prepared_utc": "2026-10-29T19:59:23Z",
+  "repository": "Dale-Dug/de-bruijn-newman-0107965",
+  "branch": "main",
+  "companion_url": "https://github.com/Dale-Dug/de-bruijn-newman-0107965",
+  "publication_doi": "10.5281/zenodo.23752103",
+  "publication_version": "1.0",
+  "publication_date": "2026-10-29",
+  "record_url": "https://zenodo.org/records/23752103",
+  "record_api_url": "https://zenodo.org/api/records/23752103",
+  "published_file_identities_observed_utc": "2026-10-29T17:59:21.916Z",
+  "published_license_id": "cc-by-4.0",
+  "main_manuscript_pages": 63,
+  "recorded_replay_stage_count": 15,
+  "original_deposit_files": {
+    "CITATION.cff": {
+      "bytes": 4197,
+      "zenodo_md5": "75e02a1ba71d799c707aae2665080cb2",
+      "url": "https://zenodo.org/api/records/23752103/files/CITATION.cff/content",
+      "sha256": "70adae7cb60713a0a9a1e4fc8475ef220dd62ff45c791316cf6ab05ed97d9395"
+    },
+    "Further_Consequences.pdf": {
+      "bytes": 261862,
+      "zenodo_md5": "a484b6d0363e9ccf151bff1587a65ab4",
+      "url": "https://zenodo.org/api/records/23752103/files/Further_Consequences.pdf/content",
+      "sha256": "38466a500b151ed9964e24949daaf7c9e428adf16f39f73c54a283584d5e7a0b"
+    },
+    "LICENSES_AND_RIGHTS.md": {
+      "bytes": 4780,
+      "zenodo_md5": "fe0fd2eedf5367067ffa3b15b3920b26",
+      "url": "https://zenodo.org/api/records/23752103/files/LICENSES_AND_RIGHTS.md/content",
+      "sha256": "5199bc2329565fcec8d03d85bd843146217cec9c8f58eb87a0888df413b68bd6"
+    },
+    "Manuscript_Sources.zip": {
+      "bytes": 194656,
+      "zenodo_md5": "617abd652d21442cd0623daea96e58b5",
+      "url": "https://zenodo.org/api/records/23752103/files/Manuscript_Sources.zip/content",
+      "sha256": "0e35b0e9c7e35741bc5757b7c5db1ce4d54b9e7f31880f2b32b7732cce4fa510"
+    },
+    "Matched_Source_Supplement.pdf": {
+      "bytes": 254434,
+      "zenodo_md5": "aa216b05f52f4d262cfe03f393e7319a",
+      "url": "https://zenodo.org/api/records/23752103/files/Matched_Source_Supplement.pdf/content",
+      "sha256": "a954ff4704fcb398ff24556c17c3e1f45ea6e4f3c10453500854a96e4f6aa2cf"
+    },
+    "Prior_Analytic_Foundations.pdf": {
+      "bytes": 434186,
+      "zenodo_md5": "e1e8ba4a1f91a65fb7caaa9b7dfc1b42",
+      "url": "https://zenodo.org/api/records/23752103/files/Prior_Analytic_Foundations.pdf/content",
+      "sha256": "fe06339d12cfefe00b9da826ff812e31bb1be3cdaa698b78d4d85ad8b0ae53a9"
+    },
+    "Prior_Correlated_Translated_Probes.pdf": {
+      "bytes": 346256,
+      "zenodo_md5": "f974f8b8f9274db5637eca2ab4a7319e",
+      "url": "https://zenodo.org/api/records/23752103/files/Prior_Correlated_Translated_Probes.pdf/content",
+      "sha256": "ad3e552b7429e685514cfa4ccfadebe9daf382c8000d95afb584932f0e226787"
+    },
+    "Proof_and_Replay.zip": {
+      "bytes": 201060812,
+      "zenodo_md5": "8f9ad670a7ccb17dbbf224ad38e869b5",
+      "url": "https://zenodo.org/api/records/23752103/files/Proof_and_Replay.zip/content",
+      "sha256": "bf5c7b3dca9e17e84e146ecc5ca0c6f671b409613088212e3f0b8a0b15f6aaf6"
+    },
+    "README.md": {
+      "bytes": 7147,
+      "zenodo_md5": "682b50c6df141aab52b3af8f769d11fb",
+      "url": "https://zenodo.org/api/records/23752103/files/README.md/content",
+      "sha256": "ec29cc1d9736fe617e916240748336e15b5a36651cd3261bc741c733aa13b113"
+    },
+    "Release_Manifest.json": {
+      "bytes": 2711,
+      "zenodo_md5": "5bf3fe66a5314e9307db57601afca052",
+      "url": "https://zenodo.org/api/records/23752103/files/Release_Manifest.json/content",
+      "sha256": "0ec8ae2a5b179f348c78c9c8fed9b908ad79d100118913e0a014a56d6fd5e6f1"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 1346,
+      "zenodo_md5": "15fa27df61c79c24e29b11b3d042a16a",
+      "url": "https://zenodo.org/api/records/23752103/files/SHA256SUMS.txt/content",
+      "sha256": "a5d556b3bc95e9ecf4271348902ff859bcb5cc9a420a2c2ffb04020e7a95e5e2"
+    },
+    "Unconditional_0107965.pdf": {
+      "bytes": 744690,
+      "zenodo_md5": "20d59d804e2dffc6194e90a01a88c9c1",
+      "url": "https://zenodo.org/api/records/23752103/files/Unconditional_0107965.pdf/content",
+      "sha256": "df40d365c71e09973342ec30eb20cdebdf17faf2d89de32bc7a04772cd1e1e2e"
+    },
+    "Unconditional_0107965.tex": {
+      "bytes": 192911,
+      "zenodo_md5": "28de9557982c60ccb6bc77a0d0cdcce8",
+      "url": "https://zenodo.org/api/records/23752103/files/Unconditional_0107965.tex/content",
+      "sha256": "adbd147a63e2c556a3c5c332e78c011bf3420071a32678262d61aa3aac7ee4f4"
+    },
+    "Verification_Guide.pdf": {
+      "bytes": 209353,
+      "zenodo_md5": "5711ae31d883ce7cbb88248d84874312",
+      "url": "https://zenodo.org/api/records/23752103/files/Verification_Guide.pdf/content",
+      "sha256": "6ff2aa0a07a54f178b8b03bd66603eb586967e39af3db639d2909da80b3a7615"
+    },
+    "Verification_Receipt.json": {
+      "bytes": 7297,
+      "zenodo_md5": "04481337bd70d880528060e6cc90579c",
+      "url": "https://zenodo.org/api/records/23752103/files/Verification_Receipt.json/content",
+      "sha256": "22eeab2ac9134c29073b8b89ba6e3f0c4a257a41b61fe2ef640930bb74c9a03f"
+    },
+    "Verify_Deposit.py": {
+      "bytes": 25704,
+      "zenodo_md5": "bdb8b9ed201a7058c8b2d8e6b60219cb",
+      "url": "https://zenodo.org/api/records/23752103/files/Verify_Deposit.py/content",
+      "sha256": "11a129ecffad544397eb8d576f94cb7f97fce06495ad8faa2ec485d831568f60"
+    }
+  },
+  "mirrored_directory": "deposit",
+  "external_archive": "Proof_and_Replay.zip",
+  "source_preservation": "All 15 mirrored publication files are byte-for-byte copies of the sealed published release, matched to the recorded Zenodo server MD5 values and published SHA-256 identities. The large scientific archive remains at its published Zenodo location.",
+  "companion_changes": "New root README, rights pointer, review guide, integrity manifest, provenance and adapted restoration helpers. The root CFF duplicates the published CFF exactly. No archival payload or original checksum file was edited.",
+  "verification": {
+    "all_public_files_match_recorded_zenodo_md5": true,
+    "all_published_sha256_checks_passed": true,
+    "fresh_network_download_performed_for_github_preparation": false,
+    "companion_manifest_checked": true,
+    "exact_16_file_restoration_checked": true,
+    "unchanged_deposit_verifier_passed": true,
+    "fresh_fifteen_stage_mathematical_replay_performed": false,
+    "fresh_full_lean_build_performed": false,
+    "external_mathematical_peer_review_performed": false,
+    "scope": "Companion preparation checks file identity and restoration. The unchanged deposit verifier checks archive identities, recorded replay bindings and exact terminal arithmetic. The published scientific execution receipt retains its own verification scope; no fresh mathematical replay or end-to-end formalisation is claimed.",
+    "checked_utc": "2026-10-29T20:03:58Z",
+    "companion_manifest_rechecked_utc": "2026-10-29T20:26:12Z",
+    "python_version": "3.12.14",
+    "checks": [
+      {
+        "command": "python3.12 -B Verify_GitHub_Files.py",
+        "result": "GITHUB_COMPANION_FILE_INTEGRITY_PASS 22"
+      },
+      {
+        "command": "python3.12 -B Prepare_Replay.py --archive /path/to/Proof_and_Replay.zip --output ../zenodo_23752103 --verify-deposit",
+        "result": "ORIGINAL_ZENODO_DEPOSIT_RESTORED_AND_HASH_CHECKED 16; unchanged Verify_Deposit.py status PASS; mathematical_consumers_executed_by_this_verifier false"
+      }
+    ]
+  }
+}

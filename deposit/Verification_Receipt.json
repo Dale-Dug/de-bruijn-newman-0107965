@@ -1,0 +1,227 @@
+{
+  "schema": "BCLD_RECONSTRUCTED_VERIFICATION_V1",
+  "doi": "10.5281/zenodo.23752103",
+  "edition": "Version 1.0",
+  "version": "1.0",
+  "prepared_date": "2026-10-29",
+  "version_note": "This edition supersedes referee edition 3 of 28 October 2026; the numerical plan, source table and comparison history are unchanged; Appendix B adds the direct source reconstruction.",
+  "current_manuscript_sources": {
+    "Unconditional_0107965.tex": {
+      "bytes": 192911,
+      "sha256": "adbd147a63e2c556a3c5c332e78c011bf3420071a32678262d61aa3aac7ee4f4"
+    },
+    "Matched_Source_Supplement.tex": {
+      "bytes": 8481,
+      "sha256": "b7814cb2cfd390bf20817df55cb343de189f77b3d269f82177000d9699f87f44"
+    },
+    "Further_Consequences.tex": {
+      "bytes": 8673,
+      "sha256": "d3434f71d38685151b6bb35a64064add38a3db876f75052563305d0cd76affa2"
+    },
+    "Verification_Guide.tex": {
+      "bytes": 9197,
+      "sha256": "df440f67aca523f1b60f88820937560093dfe69752c9c15bcbcb059ba837d9e1"
+    }
+  },
+  "finite_replay": {
+    "status": "PASS",
+    "passed_steps": 15,
+    "assertions_enabled": true,
+    "historical_filesystem_fallback": false,
+    "discovery_mode": false,
+    "steps": [
+      {
+        "step": "native",
+        "exit_code": 0,
+        "seconds": 274.0870896560009,
+        "log": "logs/native.log"
+      },
+      {
+        "step": "activation",
+        "exit_code": 0,
+        "seconds": 2.090452780998021,
+        "log": "logs/activation.log"
+      },
+      {
+        "step": "spectral",
+        "exit_code": 0,
+        "seconds": 5.074064628999622,
+        "log": "logs/spectral.log"
+      },
+      {
+        "step": "heads28",
+        "exit_code": 0,
+        "seconds": 30.775353426004585,
+        "log": "logs/heads28.log"
+      },
+      {
+        "step": "heads39",
+        "exit_code": 0,
+        "seconds": 19.591329095004767,
+        "log": "logs/heads39.log"
+      },
+      {
+        "step": "wall",
+        "exit_code": 0,
+        "seconds": 14.977221026005282,
+        "log": "logs/wall.log"
+      },
+      {
+        "step": "kernel",
+        "exit_code": 0,
+        "seconds": 289.37546002199815,
+        "log": "logs/kernel.log"
+      },
+      {
+        "step": "arcs",
+        "exit_code": 0,
+        "seconds": 169.41009191400371,
+        "log": "logs/arcs.log"
+      },
+      {
+        "step": "affine",
+        "exit_code": 0,
+        "seconds": 1.0630597779963864,
+        "log": "logs/affine.log"
+      },
+      {
+        "step": "overlays",
+        "exit_code": 0,
+        "seconds": 12.93303260099492,
+        "log": "logs/overlays.log"
+      },
+      {
+        "step": "compact-arcs",
+        "exit_code": 0,
+        "seconds": 36.14734969399433,
+        "log": "logs/compact-arcs.log"
+      },
+      {
+        "step": "interfaces",
+        "exit_code": 0,
+        "seconds": 0.29202841100050136,
+        "log": "logs/interfaces.log"
+      },
+      {
+        "step": "physical-debit-map",
+        "exit_code": 0,
+        "seconds": 0.31808047099912073,
+        "log": "logs/physical-debit-map.log"
+      },
+      {
+        "step": "arithmetic-credit-map",
+        "exit_code": 0,
+        "seconds": 0.4000095779992989,
+        "log": "logs/arithmetic-credit-map.log"
+      },
+      {
+        "step": "direct-source",
+        "exit_code": 0,
+        "seconds": 1.6510162819977268,
+        "log": "logs/direct-source.log"
+      }
+    ],
+    "seconds": 347.6337725239937,
+    "access_logs_prefix": "Proof_and_Replay/Release_Support/fresh_replay/access/",
+    "core_manifest_path": "Proof_and_Replay/Release_Support/fresh_replay/CORE_IDENTITIES.json",
+    "core_manifest_sha256": "ec1d65f86f356341e62e1ff3a2d321abd349aa679f03cc8430ef3914703c834f",
+    "run_receipt_path": "Proof_and_Replay/Release_Support/fresh_replay/REPLAY_RECEIPT.json",
+    "run_receipt_sha256": "878738bc7947fcceae53187a7013dd59a2fdddf01ea8fbe9a7abb71bfa630bd4",
+    "direct_source_receipt_path": "Proof_and_Replay/Release_Support/fresh_replay/DIRECT_SOURCE_RECONSTRUCTION.json",
+    "direct_source_receipt_sha256": "e84be1c42352c9997015daf1e645ef3dfa229abb9dc1cbfb2a7c822c926b55ec"
+  },
+  "documents": [
+    {
+      "file": "Unconditional_0107965.pdf",
+      "pages": 63,
+      "source": {
+        "bytes": 192911,
+        "sha256": "adbd147a63e2c556a3c5c332e78c011bf3420071a32678262d61aa3aac7ee4f4"
+      },
+      "pdf": {
+        "bytes": 744690,
+        "sha256": "df40d365c71e09973342ec30eb20cdebdf17faf2d89de32bc7a04772cd1e1e2e"
+      },
+      "pdflatex_passes": 3,
+      "final_reference_and_overflow_checks": "PASS"
+    },
+    {
+      "file": "Matched_Source_Supplement.pdf",
+      "pages": 3,
+      "source": {
+        "bytes": 8481,
+        "sha256": "b7814cb2cfd390bf20817df55cb343de189f77b3d269f82177000d9699f87f44"
+      },
+      "pdf": {
+        "bytes": 254434,
+        "sha256": "a954ff4704fcb398ff24556c17c3e1f45ea6e4f3c10453500854a96e4f6aa2cf"
+      },
+      "pdflatex_passes": 3,
+      "final_reference_and_overflow_checks": "PASS"
+    },
+    {
+      "file": "Further_Consequences.pdf",
+      "pages": 3,
+      "source": {
+        "bytes": 8673,
+        "sha256": "d3434f71d38685151b6bb35a64064add38a3db876f75052563305d0cd76affa2"
+      },
+      "pdf": {
+        "bytes": 261862,
+        "sha256": "38466a500b151ed9964e24949daaf7c9e428adf16f39f73c54a283584d5e7a0b"
+      },
+      "pdflatex_passes": 3,
+      "final_reference_and_overflow_checks": "PASS"
+    },
+    {
+      "file": "Verification_Guide.pdf",
+      "pages": 4,
+      "source": {
+        "bytes": 9197,
+        "sha256": "df440f67aca523f1b60f88820937560093dfe69752c9c15bcbcb059ba837d9e1"
+      },
+      "pdf": {
+        "bytes": 209353,
+        "sha256": "6ff2aa0a07a54f178b8b03bd66603eb586967e39af3db639d2909da80b3a7615"
+      },
+      "pdflatex_passes": 3,
+      "final_reference_and_overflow_checks": "PASS"
+    }
+  ],
+  "upper_exact": "427693072077942473661578098491/3961408125713216879677197516800",
+  "exact_consequences_checks": {
+    "terminal_time_exact_decimal": true,
+    "terminal_squared_halfwidth_positive": true,
+    "exact_endpoint_identity": true,
+    "endpoint_common_denominator": true,
+    "cleanup_strict_enclosure": true,
+    "endpoint_strict_enclosure": true,
+    "strict_displayed_bound": true,
+    "ceiling_difference_strict_enclosure": true,
+    "percentage_rounds_to_7_24483": true,
+    "contraction_zero_at_endpoint": true
+  },
+  "actual_runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+    "python_flint": "0.8.0",
+    "FLINT": "3.3.1",
+    "assertions_enabled": true,
+    "runtime_path": "Lambda_Peer_Review/runtime",
+    "runtime_files_bound_in": "CORE_IDENTITIES.json"
+  },
+  "public_archive_identities": {
+    "Manuscript_Sources.zip": {
+      "bytes": 194656,
+      "sha256": "0e35b0e9c7e35741bc5757b7c5db1ce4d54b9e7f31880f2b32b7732cce4fa510"
+    },
+    "Proof_and_Replay.zip": {
+      "bytes": 201060812,
+      "sha256": "bf5c7b3dca9e17e84e146ecc5ca0c6f671b409613088212e3f0b8a0b15f6aaf6"
+    }
+  },
+  "assurance_boundaries": {
+    "integrity_check": "File identity and source binding only; full numerical replay is separately recorded.",
+    "Lean": "Pinned ordinary-zeta theorem and attributed external build evidence; no new full local Lean build or end-to-end formalisation."
+  }
+}
